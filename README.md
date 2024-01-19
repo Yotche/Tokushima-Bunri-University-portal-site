@@ -6,5 +6,7 @@
 ![S__13647878](https://github.com/Yotche/Tokushima-Bunri-University-portal-site/assets/148449700/9dfddf86-7654-4c56-b6cd-44bc855234b8)
 
 
+実際の動作はブラウザを立ち上げずにバックグラウンドで動作します。
+
 https://github.com/Yotche/Tokushima-Bunri-University-portal-site/assets/148449700/cbb347f8-3cfe-4047-841e-c3c507214970
 
